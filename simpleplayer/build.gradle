@@ -12,7 +12,7 @@ android {
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
-        buildConfigField 'String', 'KEY', '"6D75724D7A4A36526D34304132635A666F446B6D70655A76636D63755A57467A65575268636E64706269356C59584E356347786865575679567778576F502B6C2F32566863336B3D"'
+        buildConfigField 'String', 'KEY', '"EasyPlayer is free!"'
         buildConfigField 'String', 'RTSP_URL', '"rtsp://184.72.239.149/vod/mp4://BigBuckBunny_175k.mov"'
 
     }
